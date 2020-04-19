@@ -45,26 +45,28 @@ def main(path):
     print(car_ps)
     print(marco_ps)
 
-    para_map = {}
-    
     # search relevant paragraphs
+    para_map = {}
     car_paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
     with open(car_paragraphs, 'rb') as f:
         for p in iter_paragraphs(f):
             if p.para_id in car_ps:
-                para_map[p.para_id] = p.getText()
+                texts = [elem.text if isinstance(elem, ParaText)
+                         else elem.anchor_text
+                         for elem in p.bodies]
+                para_map['CAR_'+p.para_id] = ' '.join(texts)
 
     marco_paragraphs = '%s/ms_marco.tsv'
     with open(marco_paragraphs, encoding='utf-8') as f:
         for i, line in enumerate(f):
             para_id, para_text = line.rstrip().split('\t')
             if para_id in marco_ps:
-                para_map[para_id] = para_text
+                para_map['MARCO_'+para_id] = para_text
 
     output_path = '../data/2_cast_topic_goats.tsv'
     with open(output_path, 'w') as f_out:
-        for para_id, para_text in para_map.items():
-            f_out.writeline("%s\t%s"%(para_id, para_text))
+        for q_id, para_id in q_ps.items():
+            f_out.writeline("%s\t%s"%(q_id, para_map[para_id]))
 
 
 if __name__ == '__main__':
