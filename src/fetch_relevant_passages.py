@@ -33,20 +33,38 @@ def main(path):
     q_ps = get_q_ps_map(q_path)
 
     car_ps = []
+    marco_ps = []
     for ps in q_ps.values():
         for p in ps:
             dataset, para_id = p.split('_')
             if dataset == 'CAR':
                 car_ps.append(para_id)
+            elif dataset == 'MARCO':
+                marco_ps.append(para_id)
     # print("%d relevant passages for %d questions"%(len(relevant_passages), len(q_ps)))
     print(car_ps)
+    print(marco_ps)
 
-    paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
+    para_map = {}
+    
     # search relevant paragraphs
-    with open(paragraphs, 'rb') as f:
+    car_paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
+    with open(car_paragraphs, 'rb') as f:
         for p in iter_paragraphs(f):
             if p.para_id in car_ps:
-                print(para.getText())
+                para_map[p.para_id] = p.getText()
+
+    marco_paragraphs = '%s/ms_marco.tsv'
+    with open(marco_paragraphs, encoding='utf-8') as f:
+        for i, line in enumerate(f):
+            para_id, para_text = line.rstrip().split('\t')
+            if para_id in marco_ps:
+                para_map[para_id] = para_text
+
+    output_path = '../data/2_cast_topic_goats.tsv'
+    with open(output_path, 'w') as f_out:
+        for para_id, para_text in para_map.items():
+            f_out.writeline("%s\t%s"%(para_id, para_text))
 
 
 if __name__ == '__main__':
