@@ -55,7 +55,6 @@ def main(path):
                          else elem.anchor_text
                          for elem in p.bodies]
                 para_map['CAR_'+p.para_id] = ' '.join(texts)
-                break
 
     marco_paragraphs = '%s/ms_marco.tsv' % path
     with open(marco_paragraphs, encoding='utf-8') as f:
@@ -63,7 +62,6 @@ def main(path):
             para_id, para_text = line.rstrip().split('\t')
             if para_id in marco_ps:
                 para_map['MARCO_'+para_id] = para_text
-                break
 
     output_path = '../data/2_cast_topic_goats.tsv'
     with open(output_path, 'w') as f_out:
