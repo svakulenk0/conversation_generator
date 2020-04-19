@@ -6,11 +6,12 @@ Created on Apr 18, 2020
 .. codeauthor: svitlana vakulenko
     <svitlana.vakulenko@gmail.com>
 
+python fetch_relevant_passage.py path_to_car
 '''
 import argparse
 from collections import defaultdict
 
-import pyndri
+from trec_car.read_data import *
 
 
 def get_q_ps_map(path):
@@ -27,21 +28,29 @@ def get_q_ps_map(path):
     return q_ps
 
 
-def main(index_path):
-    path = "../data/2_cast_topic_goats.qrel"
-    q_ps = get_q_ps_map(path)
-    relevant_passages = [p for ps in q_ps.values() for p in ps]
-    print("%d relevant passages for %d questions"%(len(relevant_passages), len(q_ps)))
-    # print(relevant_passages)
+def main(path):
+    q_path = "../data/2_cast_topic_goats.qrel"
+    q_ps = get_q_ps_map(q_path)
 
-    # load index
-    index = pyndri.Index(index_path)
-    # with pyndri.open(sys.argv[1]) as index:
-    print('Index contains %d documents.' % index.document_count())
+    car_ps = []
+    for ps in q_ps.values():
+        for p in ps:
+            dataset, para_id = p.split('_')
+            if dataset == 'CAR':
+                car_ps.append(para_id)
+    # print("%d relevant passages for %d questions"%(len(relevant_passages), len(q_ps)))
+    print(car_ps)
+
+    paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
+    # search relevant paragraphs
+    with open(paragraphs, 'rb') as f:
+        for p in iter_paragraphs(f):
+            if p.para_id in car_ps:
+                print(para.getText())
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('index', type=str)
+    parser.add_argument('path', type=str)
     args = parser.parse_args()
-    main(args.index)
+    main(args.path)
