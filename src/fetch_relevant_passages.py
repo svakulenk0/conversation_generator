@@ -47,6 +47,16 @@ def main(path):
 
     # search relevant paragraphs
     para_map = {}
+
+    marco_paragraphs = '%s/ms_marco.tsv' % path
+    with open(marco_paragraphs, encoding='utf-8') as f:
+        for i, line in enumerate(f):
+            para_id, para_text = line.rstrip().split('\t')
+            print(para_id)
+            if para_id in marco_ps:
+                para_map['MARCO_'+para_id] = para_text
+                break
+
     car_paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
     with open(car_paragraphs, 'rb') as f:
         for p in iter_paragraphs(f):
@@ -57,19 +67,14 @@ def main(path):
                 para_map['CAR_'+p.para_id] = ' '.join(texts)
                 break
 
-    marco_paragraphs = '%s/ms_marco.tsv' % path
-    with open(marco_paragraphs, encoding='utf-8') as f:
-        for i, line in enumerate(f):
-            para_id, para_text = line.rstrip().split('\t')
-            if para_id in marco_ps:
-                para_map['MARCO_'+para_id] = para_text
-                break
-
     output_path = '../data/2_cast_topic_goats.tsv'
     with open(output_path, 'w', encoding='utf-8') as f_out:
         for q_id, para_ids in q_ps.items():
             for para_id in para_ids:
-                f_out.write("%s\t%s\t%s\n"%(q_id, para_id, para_map[para_id]))
+                if para_id in para_map:
+                    f_out.write("%s\t%s\t%s\n"%(q_id, para_id, para_map[para_id]))
+                else:
+                    print(para_id)
 
 
 if __name__ == '__main__':
