@@ -52,10 +52,8 @@ def main(path):
     with open(marco_paragraphs, encoding='utf-8') as f:
         for i, line in enumerate(f):
             para_id, para_text = line.rstrip().split('\t')
-            print(para_id)
             if para_id in marco_ps:
                 para_map['MARCO_'+para_id] = para_text
-                break
 
     car_paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
     with open(car_paragraphs, 'rb') as f:
@@ -65,7 +63,6 @@ def main(path):
                          else elem.anchor_text
                          for elem in p.bodies]
                 para_map['CAR_'+p.para_id] = ' '.join(texts)
-                break
 
     output_path = '../data/2_cast_topic_goats.tsv'
     with open(output_path, 'w', encoding='utf-8') as f_out:
