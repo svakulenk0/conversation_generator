@@ -68,7 +68,7 @@ def main(path):
     output_path = '../data/2_cast_topic_goats.tsv'
     with open(output_path, 'w') as f_out:
         for q_id, para_id in q_ps.items():
-            f_out.writeline("%s\t%s\t%s"%(q_id, para_id, para_map[para_id]))
+            f_out.write("%s\t%s\t%s\n"%(q_id, para_id, para_map[para_id]))
 
 
 if __name__ == '__main__':
