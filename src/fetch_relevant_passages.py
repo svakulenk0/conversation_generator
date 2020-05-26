@@ -72,8 +72,8 @@ def main(path, q_path="2_cast_topic_goats.qrel"):
             for para_id in para_ids:
                 if para_id in para_map:
                     f_out.write("%s\t%s\t%s\n"%(q_id, para_id, para_map[para_id]))
-                else:
-                    print(para_id)
+                # else:
+                #     print(para_id)
 
 
 if __name__ == '__main__':
