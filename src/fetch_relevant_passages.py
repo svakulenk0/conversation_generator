@@ -54,16 +54,16 @@ def main(path, qrel_path="2_cast_topic_goats.qrel"):
             para_id, para_text = line.rstrip().split('\t')
             if para_id in marco_ps:
                 para_map['MARCO_'+para_id] = para_text
-                break
+                # break
 
-    # car_paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
-    # with open(car_paragraphs, 'rb') as f:
-    #     for p in iter_paragraphs(f):
-    #         if p.para_id in car_ps:
-    #             texts = [elem.text if isinstance(elem, ParaText)
-    #                      else elem.anchor_text
-    #                      for elem in p.bodies]
-    #             para_map['CAR_'+p.para_id] = ' '.join(texts)
+    car_paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
+    with open(car_paragraphs, 'rb') as f:
+        for p in iter_paragraphs(f):
+            if p.para_id in car_ps:
+                texts = [elem.text if isinstance(elem, ParaText)
+                         else elem.anchor_text
+                         for elem in p.bodies]
+                para_map['CAR_'+p.para_id] = ' '.join(texts)
 
     output_path = '../data/%s.tsv' % qrel_path.split('.')[0]
     print(output_path)
@@ -72,8 +72,8 @@ def main(path, qrel_path="2_cast_topic_goats.qrel"):
             for para_id in para_ids:
                 if para_id in para_map:
                     f_out.write("%s\t%s\t%s\n"%(q_id, para_id, para_map[para_id]))
-                # else:
-                #     print(para_id)
+                else:
+                    print(para_id)
 
 
 if __name__ == '__main__':
