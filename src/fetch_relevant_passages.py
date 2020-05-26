@@ -28,8 +28,8 @@ def get_q_ps_map(path):
     return q_ps
 
 
-def main(path, q_path="2_cast_topic_goats.qrel"):
-    q_path = "../data/%s" % q_path
+def main(path, qrel_path="2_cast_topic_goats.qrel"):
+    q_path = "../data/%s" % qrel_path
     q_ps = get_q_ps_map(q_path)
 
     car_ps = []
@@ -65,7 +65,7 @@ def main(path, q_path="2_cast_topic_goats.qrel"):
     #                      for elem in p.bodies]
     #             para_map['CAR_'+p.para_id] = ' '.join(texts)
 
-    output_path = '../data/%s.tsv' % q_path.split('.')[0]
+    output_path = '../data/%s.tsv' % qrel_path.split('.')[0]
     print(output_path)
     with open(output_path, 'w', encoding='utf-8') as f_out:
         for q_id, para_ids in q_ps.items():
