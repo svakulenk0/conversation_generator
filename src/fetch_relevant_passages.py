@@ -28,8 +28,8 @@ def get_q_ps_map(path):
     return q_ps
 
 
-def main(path):
-    q_path = "../data/2_cast_topic_goats.qrel"
+def main(path, q_path="2_cast_topic_goats.qrel"):
+    q_path = "../data/%s" % q_path
     q_ps = get_q_ps_map(q_path)
 
     car_ps = []
@@ -76,6 +76,7 @@ def main(path):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('path', type=str)
+    parser.add_argument('collection_path', type=str)
+    parser.add_argument('qrel_path', type=str)
     args = parser.parse_args()
-    main(args.path)
+    main(args.collection_path, args.qrel_path)
