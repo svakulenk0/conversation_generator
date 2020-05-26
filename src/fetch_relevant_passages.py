@@ -42,8 +42,8 @@ def main(path, q_path="2_cast_topic_goats.qrel"):
             elif dataset == 'MARCO':
                 marco_ps.append(para_id)
     # print("%d relevant passages for %d questions"%(len(relevant_passages), len(q_ps)))
-    print(car_ps)
-    print(marco_ps)
+    # print(car_ps)
+    # print(marco_ps)
 
     # search relevant paragraphs
     para_map = {}
@@ -54,17 +54,19 @@ def main(path, q_path="2_cast_topic_goats.qrel"):
             para_id, para_text = line.rstrip().split('\t')
             if para_id in marco_ps:
                 para_map['MARCO_'+para_id] = para_text
+                break
 
-    car_paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
-    with open(car_paragraphs, 'rb') as f:
-        for p in iter_paragraphs(f):
-            if p.para_id in car_ps:
-                texts = [elem.text if isinstance(elem, ParaText)
-                         else elem.anchor_text
-                         for elem in p.bodies]
-                para_map['CAR_'+p.para_id] = ' '.join(texts)
+    # car_paragraphs = '%s/paragraphCorpus/dedup.articles-paragraphs.cbor' % path
+    # with open(car_paragraphs, 'rb') as f:
+    #     for p in iter_paragraphs(f):
+    #         if p.para_id in car_ps:
+    #             texts = [elem.text if isinstance(elem, ParaText)
+    #                      else elem.anchor_text
+    #                      for elem in p.bodies]
+    #             para_map['CAR_'+p.para_id] = ' '.join(texts)
 
     output_path = '../data/%s.tsv' % q_path.split('.')[0]
+    print(output_path)
     with open(output_path, 'w', encoding='utf-8') as f_out:
         for q_id, para_ids in q_ps.items():
             for para_id in para_ids:
