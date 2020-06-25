@@ -1,8 +1,9 @@
 ## TREC CAsT 2019 
 
-Train topics:
+Download relevance judgements for train and evaluation topics:
 ```
 wget https://raw.githubusercontent.com/daltonj/treccastweb/master/2019/data/training/train_topics_mod.qrel
+wget https://trec.nist.gov/data/cast/2019qrels.txt
 ```
 
 ## TrecQrel format
