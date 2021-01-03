@@ -1,0 +1,661 @@
+Task id: 1
+getting organized at work               [I need to get organized at work]
+
+  *   Checklist for getting organized at work
+  *   How to organize office desk
+  *   Tips for getting organized at work
+  *   Organize schedule at office
+  *   How to create a todo/task list
+  *   How to keep a calendar of scheduled meetings and travel
+  *   How to set deadlines and goals
+  *   How to organize your work space
+  *   How to log the time you spend
+  *   Methods to track your progress towards goals
+  *   How to set up a filing system with a binder or folders
+
+Task id: 2
+choose bathroom                 [I'm remodeling my bathroom and I need to make a lot of choices]
+
+  *   Find bathroom designs/ideas
+  *   Find bathroom decorations or bathroom decoration ideas
+  *   Find bathroom furniture
+  *   Choose a color scheme and style
+  *   Choose floor plan
+  *   Choose sink
+  *   Choose cabinets
+  *   Choose tiles
+  *   Choose mirrors
+  *   Choose flooring
+  *   Choose other fixtures (toilet, tub, shower)
+  *   Choose lighting
+  *   Choose shower curtain
+
+Task id: 3
+low wedding budget             [I am planning a low budget wedding]
+
+  *   Low budget wedding venues
+  *   Tips for wedding planning on a low budget
+  *   How to organize your own wedding
+  *   How to have a low budget wedding/low budget wedding ideas
+  *   Low budget bridal shower ideas
+  *   Delegate tasks to family
+  *   Buy a used wedding gown
+  *   Cheap wedding cake
+  *   Make your own invitations
+  *   Find low cost catering or cater it yourself
+  *   Buy budget wedding bands
+  *   Hold the ceremony at an inexpensive location
+
+Task id: 4
+lower heart rate                     [I want to lower my heart rate in the short and long term]
+
+  *   Lower heart rate naturally
+  *   Lower heart rate advantages
+  *   Methods to lower heart rate
+  *   Medicine to lower heart rate
+  *   Lower heart rate during exercise
+  *   Resting heart rate
+  *   Lower heart rate quickly
+
+Task id: 5
+website design hosting   [I need to create and host a new web site]
+
+  *   Website design hosting services
+  *   Website design hosting packages
+  *   Free website design hosting
+  *   Website design hosting tutorial
+  *   Choose a domain name
+  *   Choose a hosting service
+  *   Design the overall structure of the web site
+  *   Get software for website design and authoring
+  *   Create the content
+
+Task id: 6
+elliptical trainer         [I want to use an elliptical trainer to get fit]
+
+  *   Elliptical trainer benefits
+  *   Elliptical trainer sale
+  *   Best elliptical trainers
+  *   Elliptical trainer reviews
+  *   Why to use elliptical trainers?
+  *   Elliptical trainer versus other methods (treadmill/exercise bike/running/walking)
+  *   Types of elliptical trainers
+
+Task id: 7
+disneyland paris                   [I'm planning my visit to Disneyland Paris]
+
+  *   Information about Disneyland Paris
+  *   Disneyland Paris entrance fee
+  *   Book a hotel
+  *   Choose the right tickets and buy them
+  *   Book flights/trains
+  *   Avoid queues
+  *   Plan your visit, what to do, when
+  *   Plan meals and drinks in and out of the park
+
+Task id: 8
+solar power home                 [I'm planning to install solar power at home.]
+
+  *   How to choose system/things to consider when choosing a system
+  *   Advantages and disadvantages of solar power for home
+  *   Solar power home systems
+  *   How to install system
+  *   Investigate incentives
+  *   Connect your inverter or micro inverters
+  *   Install a disconnect
+  *   Install extra power meters
+  *   Get a charge controller
+  *   Connect batteries
+  *   Contact a professional service
+
+
+
+Task id: 9
+build a fence              [I am thinking about building some kind of fence for some purpose]
+  *   determine purpose of fence
+  *   select material
+  *   prepare the area to be fenced
+  *   purchase materials
+  *   install posts/pickets
+  *   stain and paint wood
+  *   install gate
+  *   hire a contractor
+
+Task id: 10
+get rid of moths        [I have moths somewhere in my home and I want to get rid of them]
+  *   determine location of moths
+  *   determine species of moth
+  *   set glue traps
+  *   lay out moth balls
+  *   set moth pheromone traps
+  *   natural moth repellants
+  *   thoroughly clean infected areas
+
+Task id: 11
+improve cholesterol levels              [I think my cholesterol might be high and I want to improve it]
+  *   get information about different cholesterol types
+  *   determine what are good levels of different cholesterol types
+  *   measure cholesterol levels
+  *   diets to achieve cholesterol goals
+  *   cholesterol content of certain foods
+  *   exercising to reduce cholesterol
+
+Task id: 12
+living in india             [I am thinking about moving to India but need to gather more information]
+  *   investigate cost of living in India or different cities in India
+  *   investigate living conditions in India
+  *   find a place to live
+  *   look for entertainment/things to do
+  *   look for current news about India
+  *   look for other people similar to me living in India
+
+Task id: 13
+build raised gardens            [I want to build a small raised vegetable or flower garden]
+  *   find a good place for the garden
+  *   acquire materials (tools, boards/frame, soil, etc)
+  *   build raised garden beds
+  *   build a frame
+  *   install the frame
+  *   take steps to keep out birds and pests
+  *   install irrigation system
+  *   fertilize soil and plant
+
+Task id: 14
+lose weight diet         [I think my weight might be high and I want to lower it through diet]
+  *   determine weight goals/calorie balance
+  *   diets for losing weight
+  *   calorie content of certain foods
+  *   substitute healthier foods in current diet
+  *   weight loss pills
+
+Task id: 15
+earn money online us           [I am looking for ways to earn money online in the US]
+   *  look for online jobs
+   *  set up online payment system
+   *  monetize my website or videos (advertising/affiliate marketing/other)
+
+Task id: 16
+dangers of asbestos in the home        [I think I might have asbestos in my home and I would like to know the potential dangers]
+  *   locations of asbestos in the home
+  *   diseases caused by asbestos
+  *   cancers caused by asbestos
+  *   taking precaution against asbestos
+  *   asbestos regulations
+
+Task id: 17
+prepare for job interview [How to prepare for a job interview]
+  *   How to prepare for job interview
+  *   Job interview tips
+  *   Job interview questions
+  *   How to dress for job interview
+  *   Find/prepare for human resources questions
+  *   Find/prepare prepare questions to ask your interviewer
+  *   How to reduce anxiety in job interview
+  *   Find tips on behaviour during interview
+  *   Find tips on answering questions in interview
+  *   Learn how to sell yourself
+  *   How to send a thank you email after interview
+
+Task id: 18
+sit and reach test at home [How to test your flexibility with a sit and reach test at home]
+  *   Make your own sit and reach testing box
+  *   Pre-test warm up
+  *   Perform a sit and reach test (procedure)
+  *   Find measurement norms for sit and reach test
+  *   Improve sit and reach test results
+
+Task id: 19
+atypical squamous cells [What shall you do if pap test shows atypical squamous cells]
+  *   Find out the symptoms of atypical squamous cells?
+  *   Understand the causes of atypical squamous cells?
+  *   Learn about the different categories of atypical squamous cells (e.g.ASC-US, ASC-H)
+  *   Follow up tests in case of atypical squamous cells (e.g. HPV test, colonoscopy)
+  *   Understand the positive/negative results of tests (e.g. positive pap followed by negative HPV test)
+  *   Find ways to prevent cervical cancer
+  *   Understand how atypical squamous cells affect pregnancy
+  *   Find out about treatments (e.g. Loop Electrosurgical Excision Procedure)
+  *   Find a specialist
+
+Task id: 20
+spider bites [My friend may have been bitten by a spider and I need to know what to do]
+  *   Identify which spiders are harmless and which are dangerous (eg black widow)
+  *   Identify a spider's bite from a bug's bite (or something else that mimics a spider's bite)
+  *   Find out which are the symptoms of spider bites and its side effects
+  *   Seek emergency medical care
+  *   Symptoms of dangerous spider bites
+  *   Take appropriate medicine (ex. tetanus booster shot or an anti venom)
+  *   Learn how to provide first aid to someone who is bitten by a spider
+  *   Ways of non medicine treatment (ex. Wash the site of the spider bite well with soap and water, apply a cool compress,etc)
+  *   Check out whether you are allergic to spiders
+
+Task id: 21
+sangre de cristo mountains hike [I am planning to go to Sangre de Cristo mountains for hiking and I would like to get information about that]
+  *   Find hiking trails (level of difficulty, type, reviews)
+  *   Buy a Sangre de Cristo Mountains map
+  *   Find out how to get to the Sangre de Cristo Mountains
+  *   Find out which is the best hiking season
+  *   Check the weather
+  *   Find nearby wilderness areas to visit
+  *   Find out Sangre de Cristo Mountains restrictions
+  *   Find which are the closest towns
+  *   Look for the Sangre de Cristo Mountains information center (e.g. address, phone number)
+  *   Find out where you can see elks at Sangre de Cristo Mountains
+  *   Choose camping sites and necessary equipment
+  *   Find out where to eat
+  *   Find out whether you can cook your own food (e.g. supplies, campfires)
+  *   Find out about potable water at Sangre de Cristo Mountains
+  *   Find out whether hikers suffer from altitude sickness
+
+Task id: 22
+flowering plants for cold climates [You would like to buy and take care of flowering plants for cold climates]
+  *   Appropriate type of plants (ex. hardy perennial plants)
+  *   Ways to protect plants from cold weather
+  *   Create a tropical area inside a house and learn how to care for indoor plants
+  *   Find how a plant can adapt in a cold climate
+  *   Learn how to  build a hoop greenhouse
+  *   Find ways to prevent freezing (ex. Watering)
+  *   Ask an agriculturist advice
+  *   Learn the kinds of nutrients and fertilizer  that plants need in order to strengthen them
+
+Task id: 23
+altitude sickness peru [You think you may suffer altitude sickness during your visit to Peru and you would like to get more information about that]
+  *   Recognise the symptoms of altitude sickness
+  *   Find out which are the high altitude destinations in Peru
+  *   Find ways to prevent altitude sickness
+  *   Buy a blood oxygen/pulse meter
+  *   Check where the emergency rooms/hospitals are
+  *   Appropriate medicine for altitude sickness
+  *   Ask a doctor's advice
+  *   Find a hotel with oxygen supplemented rooms
+  *   Find out what type of food and beverages are appropriate to consume
+  *   Find out whether you belong to a risky healthy category more vulnerable to altitude sickness
+
+Task id: 24
+septic system options [You are considering installing a septic system and need more information about that]
+  *   What are the different septic system types (e.g. gravity, pressure distribution, aerobic treatment, sand filter, etc)?
+  *   What materials are needed (e.g. septic tank, pump, pipes, filters)?
+  *   What is the cost of the materials?
+  *   What equipment and tools are needed for installation?
+
+Task id: 25
+barbados holidays    [You are planning your holidays to Barbados]
+  *   Find information about Barbados airport
+  *   Reviews about Barbados holidays
+  *   Compare holiday packages in Barbados
+  *   Learn about submarine tours in Barbados
+  *   Find flight information for Barbados trip
+  *   Find and compare accommodation options for Barbados trip
+  *   Learn about Holiday with Pay act in Barbados
+  *   Find about Barbados food
+  *   Find out about things to do while in Barbados
+
+Task id: 26
+first aid heart attack [Learn how to provide first aid in case of a heart attack]
+  *   Learn about emergency treatment for a heart attack
+  *   Learn how to treat heart attacks
+  *   Courses for first aid for heart attacks
+  *   Find out things to include in a first aid kit for heart attacks
+  *   Find out about the role of Aspirin in heart attacks
+  *   Find symptoms related to heart attack
+  *   Understand about heart attack warning signs
+  *   Recognize the most common symptoms of heart attacks
+  *   Learn about pre-medical treatment alternatives for a heart attack
+  *   Learn how to perform CPR
+  *   Learn how to survive a heart attack
+  *   Find information about what tablets to give at the onset of a heart attack
+  *   Find articles which describe heart attack first aid tips
+
+Task id: 27
+long term care insurance Canada [You want to buy long term care insurance in Canada]
+  *   Find and compare insurance policies in Canada
+  *   Find information on long term care premiums
+  *   Find information on retirement benefits
+  *   Learn when one needs a long term care plan
+  *   Learn on how to reduce premiums
+  *   Find information on natural calamity clauses in long term care
+  *   Find whether long term insurance care includes travel insurance
+  *   Learn about payment terms
+  *   Find rates and quotes on insurance plans
+  *   Understand long term care insurance
+  *   Understand long term planning activities concerning personal care
+  *   Look up long term care reviews online
+  *   Find information on tax deductions in Canada for LTCI
+  *   Find a list of companies providing LTCI
+  *   Find a cost calculator online
+  *   Learn how to lengthen elimination period
+  *   Learn about senior care facilities in Canada
+
+Task id: 28
+how to cook pork tenderloin [You want to cook pork tenderloin for an upcoming dinner]
+  *   Buy the right piece of pork
+  *   Find recipes for pork tenderloin
+  *   Use the appropriate seasoning
+  *   Choose a cooking method
+  *   Buy a meat thermometer
+  *   Use the right pans
+  *   Learn how to slice it
+  *   Prepare sides and sauces to add
+
+Task id: 29
+buy condo in florida [You want to buy a condo in Florida. What are the options and procedure?]
+  *   Find price ranges of condo in Florida
+  *   Find beach facing condos in Florida
+  *   Learn about the best places to buy condos from
+  *   Find out about what all should one know before buying a condo
+  *   Decide on the location in Florida
+  *   Find out whether one should buy a condo
+  *   Compare the alternatives like buying an apartment instead
+  *   Find out about ongoing sales in condo sellers
+  *   Learn about the issues one faces when buying a condo
+  *   Get loan related information
+  *   Learn about enlisting a realtor
+  *   Find out the open houses activities
+  *   Learn how to place a bid while buying condo
+
+Task id: 30
+live with fibromyalgia           [You have fibromyalgia. How to deal with it?]
+  *   Find out about support groups
+  *   Learn how to cope with pain
+  *   Find best blogs and articles on Fibromyalgia
+  *   Find how to cope sustain a normal life with symptoms
+  *   Find out about different chat rooms for support
+  *   Learn how to manage family issues while living with Fibromyalgia
+  *   Find first person narratives on creating a good life with the disease
+  *   Investigate the changes in lifestyle needed.
+  *   Find information about trigger foods for positivity
+  *   Find example routines other patients follow
+  *   Look up best/worst places to live for Fibromyalgia patients
+  *   Find local specialist doctors for consultation, advice
+
+Task id: 31
+organize wedding     [You wish to organize your own wedding. What do you need to do?]
+  *   Find online wedding planning checklists
+  *   What to consider when deciding on the wedding budget
+  *   What to consider when deciding on a suitable timeline
+  *   Find online tools for record-keeping
+  *   Look online for venue options
+  *   Find wedding themes online
+  *   Find invitation templates
+  *   Research the wedding dress and attendants' dresses
+  *   Look up wedding photos and videos online for ideas
+  *   Find and hire entertainment professionals
+  *   Find and book suitable transportation
+  *   Review and compare catering options
+  *   Review and compare decoration options
+  *   Look online for wedding organizers and agencies
+  *   Research ideas online for the wedding album
+  *   Popular wedding photographers in area
+
+Task id: 32
+install an infrared movement detector       [How can I install an infrared movement detector?]
+  *   Look online for best/suitable places to set up the detector
+  *   Search online for videos demonstrating the installation process
+  *   Find out the appropriate height to install the detector
+  *   Search for user manual pdf
+  *   Search for ways to test the sensor
+  *   Find about the working of the different components
+  *   Research about combination of infrared and microwave detectors
+  *   Search for monitoring systems
+  *   Search how to connect it to AC-powered connectors
+
+Task id: 33
+how to tell if roof needs to be repaired [What conditions tell you that your roof needs repairing, and how to get it repaired]
+  *   How to find a leak in roof
+  *   Analyze if your ceiling is sagging
+  *   Look for loose nails on your ceiling
+  *   Calculate the cost of repairing a roof
+  *   Find what materials are needed for repair
+  *   Find contractors for repair, maybe specific to region
+  *   Learn how to do an emergency repair
+  *   Find the different types of roof repair
+  *   Understand the policies for roof repair
+
+Task id: 34
+make a small apartment look larger   [How to make a small apartment look larger]
+
+  *   Decorate with soft, light hues for opening space
+  *   How to arrange furniture in a small room
+  *   Accessories that emit and reflect light (e.g. hang mirrors opposite to windows)
+  *   Look for appropriate color palettes to paint the walls
+  *   Look at designs or companies to make space larger
+  *   Find online manuals to make house look bigger
+
+Task id: 35
+paint home interior walls [How do you arrange to paint your home's walls]
+  *   Find suitable colors for painting
+  *   Find designs for painting
+  *   Find material for painting
+  *   Find websites that allow me to paint my home's interior virtually
+  *   Calculate the cost of painting
+  *   Find painting contractors
+  *   How to paint interior walls yourself
+
+Task id: 36
+prepare home for winter      [How to prepare for the winter]
+  *   Prepare your garden for the winter
+  *   Wrap pipes in unheated locations
+  *   Prepare heating
+  *   Add more insulation
+  *   Caulk cracks around windows and doors
+  *   Add weather stripping to doors and windows
+  *   Install outlet gaskets to electric outlets located on outer walls
+  *   Clean your furnace
+  *   Install double-paned windows
+  *   Clean out your rain gutters
+  *   Close outside vents to your house
+  *   Buy winter rugs and duvets
+  *   Buy winter themed duvet covers
+  *   Prepare an "emergency" kit
+
+Task id: 37
+safety tips for hurricane      [What are some safety tips if you are expecting a hurricane in the area you live]
+  *   Storing food for hurricanes
+  *   Get the necessary insurance that covers hurricane damage
+  *   Learn about the area you live in (ex. is it in an evacuation area?)
+  *   Gather other necessary supplies (eg. medical supplies)
+  *   Put together an emergency car kit
+  *   Emergency plan of action for hurricane
+  *   Install a generator
+  *   How to keep trees and shrubs to be safe during hurricane
+  *   Items to remove to be safe during hurricane
+  *   How to design windows to stay safe from hurricane
+  *   Find out about instructions from local authorities
+  *   Shelters to go during hurricane
+  *   How to check your home for exterior structural damage after the hurricane looking out for signs of possible collapse
+  *   Tips for evacuation
+
+Task id: 38
+add value to home for sale [What items or procedures can be performed such that market value of your home increases]
+  *   How do I list my home for sale online (to determine its current value)
+  *   Find websites with tips and ideas for adding value to a home for sale 
+  *   Home renovation to boost value
+  *   Make your home look nicer
+  *   Adding paintings
+  *   Clean your home
+  *   Eliminate odors
+  *   Spruce up the yard
+  *   Add a fresh coat of interior paint
+  *   Put up fresh curtains and blinds
+  *   Install modern light switches and outlet covers
+  *   Mind the mechanics
+  *   Put the greenbacks into green efficiency
+  *   Upgrade your bath
+  *   Remodel your kitchen
+  *   Add energy efficient windows
+  *   Roof replacement
+  *   Refurbish the front door
+  *   Put in central heating
+
+Task id: 39
+deliver effective tech presentations [How to design the content and delivery of technical presentation]
+  *   Find courses for delivering presentations
+  *   Learn how to prepare a presentation deck (e.g. use visual aids)
+  *   Find technical presentation templates online
+  *   Sample effective tech presentations
+  *   Use lots of examples
+  *   Find top presenters or speakers in tech
+  *   How to handle stage fear while delivering presentations
+
+Task id: 40
+where to locate tech business in europe [Find out what is the best place in Europe to start/move your business]
+  *   Calculate cost of living (rent, food prices)
+  *   Find out whether there is fast and cheap internet
+  *   Understand the local infrastructure
+  *   Find out about visa policy
+  *   Understand the procedure to start a business in different locations in Europe (time, cost, minimum capital)
+  *   Find out how to deal with construction permits in different locations in Europe (time, cost, bureaucracy)
+  *   Understand the registering procedure in different locations in Europe (time, cost, bureaucracy)
+  *   Find out how to get funded in different locations in Europe (local VC, loans, banking system)
+  *   Learn all about taxes
+  *   Find out how to get government support
+  *   Check the access to expertise in the market
+  *   Find about the legislation
+
+Task id: 41
+how to become an art investor       [I want to become an art investor; what do I need to do]
+  *   How to take an education in art
+  *   How to build contacts (auctioneers, gallery directors and dealers)
+  *   Study [Mei Moses] fine art index
+  *   Study schools of art
+  *   Attend art shows
+  *   Diversify investment portfolio
+  *   Predict trends and art value
+  *   Find (trusted) auction houses
+  *   Find (trusted) dealers
+  *   Learn about auctions (bidding procedure)
+  *   Learn how to make a payment
+  *   Learn about art shipping
+  *   Find insurance for the art
+  *   Learn about art storing/preservation
+
+Task id: 42
+support human rights          [I want to find ways to express my support to human rights]
+  *   Support online (e.g. in forums or social media)
+  *   Participate in / organize acts, campaigns, protests, or events
+  *   Sign petitions
+  *   Report violations of human rights to government and national and international organizations
+  *   Donate to organisations/institutions/companies/charities that support human rights, (e.g. Amnesty International, International Watch)
+  *   Volunteer, find internships, or work at organisations/institutions/companies/charities that support human rights, (e.g. Amnesty International, International Watch)
+  *   Become a human rights prosecutor, attorney, lawyer or offer legal help e.g. at a legal support center
+  *   Be part of the human rights clinics
+  *   Find a non-profit organization to support human rights
+
+Task id: 43
+be a single mother in the UK           [I am planning to become a single mother in the UK; what do I need to know]
+
+  *   Get financial support (e.g. government allowance, tax benefits, financial entitlements)
+  *   Look for career opportunities (e.g. business loans, childcare)
+  *   Get medical benefits (e.g. qualify for medicaid)
+  *   Look for other special benefits (e.g. benefits for mother of 2 or more or mother of disabled children)
+  *   Explore opportunities for housing (e.g. mortgage, government housing)
+  *   Explore opportunities in education (e.g. scholarships, grants, online degree, student loans)
+  *   Get support due to divorce (e.g.child support in divorce)
+  *   Find way to improve your social life (e.g. dating, holidays)
+  *   Get parenting help (e.g. parenting classes or single mothers (online) communities)
+
+Task id: 44
+deal with a depressed family member       [How to deal with a depressed family member]
+
+  *   Find where to get help in case of family member considering suicide
+  *   Get familiarized with depression symptoms
+  *   Learn about the different types of depression (e.g. postpartum, postnatal, perceived anxiety, bipolar disorder, adolescent)
+  *   Perform depression screening
+  *   Find therapies/treatments (e.g. counseling, cognitive behavioral therapy, interpersonal therapy, psychodynamic therapy, electro-convulsive therapy)
+  *   Learn about medication, e.g., antidepressants
+  *   Seek professional help, e.g. find counseling psychologists, clinical psychologists, psychiatrists, therapy and support groups
+  *   Find out how to talk with a depressed person (be aware of what helps and what doesn't)
+  *   Learn how to improve general health (e.g. sleep, nutrition/diet, exercise and activities)
+  *   Take care of yourself (e.g. signs of burnout)
+
+Task id: 45
+school bullying         [My child is being bullied at school; what can I do about it]
+
+  *   Understand what bullying is
+  *   Understand how bullying begins
+  *   Look for emotional or psychological signs (e.g. fearing to go to school, not wanting to study. problems like stomach pain, sudden change in child's behavior, noticeable turnovers in social life, crying for no reason, trying to hide something, feeling very scared)
+  *   Look for physical signs of bullying (e.g. cuts, bruises, torn clothing broken or missing toys, electronics, or possessions)
+  *   Look for signs of cyberbullying (e.g. anxiety about using the computer, closing or blocking the computer screen, changes in using mobile devices)
+  *   Encourage the child to talk about it
+  *   Learn how to document the harassment
+  *   Provide advice for coping with bullying - do's and don'ts (e.g. walk away, avoid bullies, be in a group, react to verbal attacker)
+  *   Provide advice on taking self-defense classes (e.g. martial arts)
+  *   Ask for child psychological help
+  *   Report bullying to the right authority (e.g. other parents, school guidance counselor, principal, the police)
+  *   Talk to the bully's parents
+  *   Take action to stop bullying at schools (e.g. participate, encourage, or organize campaigns, conferences, online help, hotlines, school assemblies, programs)
+
+Task id: 46
+adopt a child in california    [We want to a adopt a child in California. What do I need to know]
+  *   Find a child from the foster care system
+  *   Find an adoption agency (list of adopting agencies through CDSS or on line)
+  *   Find an adoption attorney
+  *   Look for California Department of Social Services, CDSS
+  *   Learn about intercountry Adoption (e.g. adoption policies of different countries, immigration visas U.S. Citizenship and Immigration Services (USCIS),
+  *   Compute the cost of adoption (home study fees, counseling fees, birth mother's medical expenses, child's medical expenses, lawyer fees, travel expenses)
+  *   Learn about the requirements and qualifications in  California(e.g. age, criminal, marital, medical, and employment background)
+  *   Prepare for the home study (e.g. birth and marriage certificates, personal references, criminal and child abuse background check, adoption interview)
+  *   Meet the mother / child
+  *   Get financial help
+  *   Learn about tax exemption
+  *   Write a petition to court and prepare for court hearing
+
+Task id: 47
+raise an autistic child           [My child is autistic; how can I raise him the best possible way]
+
+  *   Provide a routine
+  *   Help socialize
+  *   Teach daily hygiene (e.g. potty training, washing dirty clothes, etc.)
+  *   Get a service dog
+  *   Learn methods for effective teaching (delineate the teaching space, predictable schedule, identify strategies for proper information absorption)
+  *   Learn methods to communicate (picture communication systems, object labelling, sign language)
+  *   Choose toys to stimulate their senses, develop social interactions, motor and organization skills
+  *   Regular health checks
+  *   Handle sensory overload
+  *   Handling a lack of responsiveness (teach social skills, encourage social interactions)
+  *   Cope with language problems (speech therapy, vocabulary repetition)
+  *   Deal with meltdowns and tantrums
+  *   Avoid self-Injurious behavior
+  *   Reduce anxiety (music, massage therapy, relaxation techniques, box breathing)
+  *   Redirect harmful stimuli
+  *   Address food sensitivities
+  *   Go for nutritional therapy and special diets
+
+Task id: 48
+export olive oil to china from greece  [I want to know what is involved in exporting olive oil from Greece to China]
+  *   Learn about the Chinese laws and regulation for imports
+  *   Learn about Chinese health restrictions
+  *   Register at the Bureau of Industry and Commerce
+  *   Register at the AQSIQ/ECIQ
+  *   Learn about Customs inspection/approval
+  *   Learn about China Inspection and Quarantine (CIQ) labelling
+  *   Find Importers/authorized agents in China
+  *   Find out about selling online
+  *   Study China's olive oil market (trends)
+  *   Find a Chinese partner
+  *   Attend exhibitions, ventures
+  *   Marketing olive oil to China
+  *   Find shipping companies
+  *   Find the cost of the import procedure (exporter/agent filing, labeling, custom clearance)
+
+Task id: 49
+raise venture capital ca [How to raise venture capital (VC) money in California]
+  *   Find angel / private investors in CA
+  *   Raise seed money in CA
+  *   Find VC companies in CA
+  *   Attend VC conferences
+  *   Prepare cocktail party pitch
+  *   Prepare presentation deck to send to VC
+  *   Protect intellectual property from VC
+  *   Build relationships with VC's
+  *   Know the do's and don'ts in a VC meeting
+  *   Prepare VC Meeting slides
+
+Task id: 50
+set up an amateur radio [How to build my own amateur radio receiver]
+  *   Make an antenna
+  *   Design and build a resonator (coil and capacitor)
+  *   Turn a resonator into a tuner
+  *   Connect to germanium diode and resistor
+  *   Connect to operational amplifiers
+  *   High impedance earphones
+  *   Tune the radio

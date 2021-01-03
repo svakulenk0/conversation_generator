@@ -1,0 +1,11 @@
+1	What are the main breeds of goat?
+2	Tell me about boer goats.
+3	What breed is good for meat?
+4	Are angora goats good for it?
+5	What about boer goats?
+6	What are pygmies used for?
+7	What is the best for fiber production?
+8	How long do Angora goats live?
+9	Can you milk them?
+10	How many can you have per acre?
+11	Are they profitable?
