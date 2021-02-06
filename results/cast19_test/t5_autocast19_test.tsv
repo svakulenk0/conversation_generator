@@ -1,139 +1,127 @@
-31_0	symptoms of throat cancer in adults
-31_1	is throat cancer curable
-31_2	causes of throat cancer in women
-31_3	causes of sore throat
-31_4	can throat cancer cause coughing
-31_5	can cancer cause difficulty swallowing
-31_6	can lung cancer cause shortness of breath
-31_7	can lung cancer spread to brain
-31_8	where does cancer usually spread to
-31_9	where does esophagus cancer start
-32_0	what are the different types of sharks
-32_1	what kind of shark is the mako shark
-32_2	what is a shark tooth
-32_3	what is shark teeth
-32_4	what is the largest shark
-32_5	what sharks eat
-32_6	what is hammerhead shark
-32_7	what is the speed of a shark
-32_8	what predators are sharks
-32_9	what is a tiger sharks
-33_0	cast of the neverending story
-33_1	what year did neverending story come out
-33_2	when was the neverending story written
-33_3	who wrote the book the neverending story
-33_4	who wrote the movie never ending story
-34_0	when was the bronze age collapse
-34_1	what year did the bronze age begin
-34_2	when did the iron age start
-34_3	symptoms of iron deficiency
-34_4	what is vitamin deficiency anemia
-34_5	what is vitamin c for
-34_6	what is vitamin b12 used for
-49_0	what devices can you watch netflix on
-49_1	how many people watch netflix
-49_2	how many subscribers does netflix have?
-49_3	how much does it cost to subscribe to amazon prime
-49_4	does amazon prime offer free shipping
-49_5	is amazon prime unlimited
-49_6	what is the difference between amazon prime instant video and netflix
-49_7	what is the monthly fee for amazon prime
-49_8	amazon prime cost per month
-50_0	how does the moon orbit the earth
-50_1	what are the three types of earth orbits
-50_2	what type of orbit does a satellite have
-50_3	how many satellites are in orbit
-50_4	when did the first satellite come into orbit
-50_5	when was the first artificial satellite launched
-50_6	when was sputnik launched
-50_7	where was cubesat launched
-50_8	cost of cubesat
-50_9	who developed cubesat
-56_0	what is the theory of evolution?
-56_1	what was darwin's theory
-56_2	what was the theory of natural selection
-56_3	what is evolutionary theory
-56_4	what is positivism theory?
-56_5	what is positivist theory
-56_6	conflict theory theory definition
-56_7	define functionalist theory
-59_0	what does the acl do
-59_1	what is acl in knee
-59_2	what is acl surgery
-59_3	what is a acl tear
-59_4	what is a torn acl
-59_5	what ligament is the acl
-59_6	where is the anterior cruciate ligament located
-59_7	where is your acl located
-59_8	what is acl reconstruction
-59_9	how long does it take to heal an acl tear
-61_0	who played thor in the avengers
-61_1	who is the new avengers
-61_2	who are the young avengers
-61_3	who is the leader of the avengers
-61_4	who are the avengers team members
-61_5	who are the members of justice league
-61_6	what year did justice league start
-61_7	what was the first justice league game
-61_8	what was the avengers first name
-61_9	what is spider man's real name
-67_0	how to treat anemia
-67_1	how does anemia affect your body
-67_2	can anemia affect red blood cells
-67_3	why are red blood cells so important
-67_4	what is the primary function of red blood cells
-67_5	what causes low red blood cell count
-67_6	how do red blood cells work
-67_7	where does red blood cell come from
-67_8	what makes blood look red
-67_9	what makes anemia worse
-68_0	what is the whey protein
-68_1	what is whey used for in cheese
+31_0	what kind of cancer does tobacco cause
+31_1	what type of cancer does cigars cause
+31_2	does smoking cause lung cancer
+31_3	can lung cancer cause a cough
+31_4	can cancer cause difficulty swallowing
+31_5	can throat cancer spread
+31_6	is throat cancer curable
+31_7	causes of throat cancer in women
+31_8	causes of sore throat
+31_9	how is throat cancer diagnosed
+32_0	biggest sharks ever caught
+32_1	largest mako shark caught
+32_2	largest shark ever seen
+32_3	what is the largest great white ever caught
+32_4	why are great white sharks endangered
+32_5	which shark species is endangered
+32_6	which shark is the apex predator
+32_7	what type of shark is tiger shark
+32_8	what is a shark tooth
+32_9	what is shark teeth
+33_0	who is michael end
+33_1	who starred in never ending story
+33_2	who wrote the neverending story
+33_3	what year did neverending story come out
+33_4	when was the neverending story written
+49_0	how much does it cost to subscribe to amazon prime
+49_1	does amazon prime offer free shipping
+49_2	is amazon prime unlimited
+49_3	can you watch amazon prime offline
+49_4	amazon prime instant video
+49_5	amazon prime cost per month
+49_6	what is the monthly fee for amazon prime
+49_7	what is netflix monthly cost
+49_8	what is netflix tv
+49_9	what network is netflix
+50_0	types of satellites
+50_1	what was the first satellite launched
+50_2	when was galileo launched
+50_3	where is galileo located
+50_4	why was galileo used
+50_5	what are cubesats used for
+50_6	who developed cubesat
+50_7	cost of cubesat
+50_8	how many cubesats are there
+50_9	where was cubesat launched
+56_0	who developed natural selection
+56_1	who developed the theory of evolution
+56_2	who discovered evolution
+56_3	what did darwin discover
+56_4	what were darwin's theories
+56_5	define darwinism
+56_6	who is charles darwin
+56_7	who developed darwin's theory of evolution
+56_8	what did darwin believe about evolution
+56_9	when did evolution occur
+59_0	types of brain injuries
+59_1	what is the most common type of injury
+59_2	what is shoulder injury
+59_3	what is the knee injury
+59_4	what is mcl injury
+59_5	what sports have the most injuries
+59_6	how to heal an ankle injury
+59_7	does a torn acl heal
+59_8	what is the function of the acl
+59_9	where is the acl in the knee
+61_0	who are the members of justice league
+61_1	who are the avengers team members
+61_2	who are the members of justice league
+61_3	what year did justice league start
+61_4	what was the first justice league game
+67_0	causes of anemia symptoms
+67_1	what is the difference between anemia and anemia
+67_2	what is the meaning of anemia
+67_3	what is hemolytic anemia
+67_4	what is microcytic anemia
+67_5	what is megaloblastic anemia
+67_6	what is aplastic anemia
+67_7	what is anemia disease
+67_8	what is hemoglobin anemia
+67_9	what is normocytic anemia
+68_0	what type of cheese is parmesan
+68_1	what is reggiano cheese
 68_2	what makes cheese
-68_3	what is reggiano cheese
-68_4	what type of cheese is parmesan
-68_5	what is parmesan made from
-68_6	what is pasta made of
-68_7	different types of pasta dishes
-68_8	different types of food in italy
-68_9	what is italy known for
-69_0	what foods contain melatonin
-69_1	which blood cells contain hemoglobin
-69_2	why are red blood cells called blood cells
-69_3	why is blood so red in color
-69_4	why is octopus blood blue
-69_5	where is oxygen transported in the blood
-69_6	where does oxygen come from
-69_7	which organelle transports oxygen
-69_8	which blood cells carry oxygen
-69_9	diseases that affect blood cells
-75_0	what kind of bird is a turkey
-75_1	what kind of meat is bologna
-75_2	what type of meat is goulash
-75_3	what is hungarian goulash
-75_4	what is beef goulash
-75_5	what is goulash made out of
-75_6	what's the difference between goulash and stew
-75_7	what is feijoada stew
-75_8	what is hungarian stew called
-75_9	what is the italian food called
-78_0	what are the benefits of paleo diet
-78_1	what's the difference between paleo and keto
-78_2	what is the difference between milk and whey
-78_3	what is whey cheese
-78_4	define whey
-78_5	is whey protein
-78_6	how is whey processed
-78_7	what is whey isolate
-78_8	what is whey powder
-78_9	what is sweet whey
-79_0	who developed the theory of sociology
-79_1	who is professor of sociology
-79_2	who established sociology
-79_3	who proposed sociology
-79_4	who created the term sociology
-79_5	who created social theory
-79_6	what is social anthropology
-79_7	who developed social evolution
-79_8	who developed natural selection
-79_9	when did darwin's theories develop
+68_3	what is cheese made from
+68_4	what is whey used for in cheese
+69_0	side effects of melatonin pills
+69_1	melatonin long term effects
+69_2	how long does it take for melatonin to work
+69_3	how does melatonin help sleep
+69_4	why is melatonin good for sleep
+69_5	is melatonin a hormone
+69_6	is melatonin safe
+69_7	what is melatonin used for
+69_8	what is melatonin supplement
+69_9	what is the benefits of melatonin
+75_0	where are turkeys found
+75_1	why is turkey called turkey
+75_2	where is the turkey from
+75_3	what is wild turkey
+75_4	what is the name of a turkey
+75_5	what is domesticated turkey
+75_6	what kind of bird is a turkey
+75_7	what kind of meat is bologna
+75_8	what type of meat is goulash
+77_0	what is feijoada stew
+77_1	what is hungarian stew called
+77_2	what is the italian food called
+77_3	what is italian cuisine
+77_4	what is the italian name for bologna
+77_5	what is bologna famous for
+78_0	how does keto diet work
+78_1	ketogenic diet
+78_2	what is ketosis diet
+78_3	what are the benefits of paleo diet
+78_4	what's the difference between paleo and keto
+78_5	what is the difference between milk and whey
+78_6	what is whey cheese
+78_7	define whey
+78_8	is whey protein
+78_9	how is whey processed
+79_0	what is functionalist sociology
+79_1	what is the study of sociology
+79_2	what is the sociology of law
+79_3	what is sociology education
+79_4	what is sociology degree
+79_5	what is the father of sociology
+79_6	what is positivism in sociology
